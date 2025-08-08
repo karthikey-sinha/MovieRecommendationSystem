@@ -111,7 +111,7 @@ After:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Your Name
 Karthikey Sinha
